@@ -1,0 +1,17 @@
+Two hour coding challenge:
+
+Write an android app in two hours or less.
+
+
+Audible clock.
+
+Sounds a notification every interval. Used for biking when phone is inaccessible. The tone lets you keep track of time.
+
+1.0 - Can set an interval of 1-60minutes in 5 minute increments. Will sound a tone each interval. Currently requires app to be running.
+
+Future improvements:
+- Run as background service
+- Customize sounds
+
+
+-Monte

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudibleClock</string>
+    <string name="minutes">minutes.</string>
+    <string name="audible">Audible alert every </string>
+    <string name="start">Start</string>
+
+</resources>
