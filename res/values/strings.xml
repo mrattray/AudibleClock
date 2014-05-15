@@ -4,6 +4,7 @@
     <string name="app_name">AudibleClock</string>
     <string name="minutes">minutes.</string>
     <string name="audible">Audible alert every </string>
+    <string name="tone_count">tone(s) sounded.</string>
     <string name="start">Start</string>
 
 </resources>
